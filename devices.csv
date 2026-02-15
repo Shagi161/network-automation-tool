@@ -1,1 +1,5 @@
+name,ip
+GoogleDNS,8.8.8.8
+CloudflareDNS,1.1.1.1
+Localhost,127.0.0.1
 
