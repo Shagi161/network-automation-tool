@@ -15,7 +15,15 @@ A simple network monitoring and automation tool that checks device availability 
 1. Install Python 3
 2. Install requirements:
    ```bash
+
+   
+Yes, just three backticks.
+
+So it becomes:
+
+
    pip install -r requirements.txt
+   
 
    ## Example Output
    ![Demo](docs/demo.png)
