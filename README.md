@@ -16,3 +16,12 @@ A simple network monitoring and automation tool that checks device availability 
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
+
+   ## Example Output
+
+Console:
+```text
+GoogleDNS (8.8.8.8) -> UP
+CloudflareDNS (1.1.1.1) -> UP
+Localhost (127.0.0.1) -> UP
+
