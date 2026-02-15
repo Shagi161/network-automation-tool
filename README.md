@@ -18,6 +18,8 @@ A simple network monitoring and automation tool that checks device availability 
    pip install -r requirements.txt
 
    ## Example Output
+   ![Demo](docs/demo.png)
+
 
 Console:
 ```text
